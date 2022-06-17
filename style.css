@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }  
+
+    .body{
+
+        background-color: hsl(0, 14%, 8%) ;
+    }
+    main{
+        width: 50%;
+        margin: auto;
+        display: flex;
+        justify-content:auto;
+        align-items:center;
+        height: 100%;
+        flex-direction:row;
+    }
+    
+    .sedans{
+        background-color: hsl(31, 77%, 52%);
+        padding: auto;
+    }
+
+    .sedans h2{
+        color: hsl(0, 0%, 95%);
+        font-size: 20px;
+        padding: 9px;
+        font-size: bold;
+        }
+    .sedans p{
+        color: hsl(0, 0%, 95%);
+        padding: 3em;
+    }    
+
+    .suv{
+        background-color: hsl(184, 100%, 22%);
+        padding: auto;
+        
+    }
+    .suv h3{
+        color: hsl(0, 0%, 95%);
+        font-size: 20px;
+        padding: auto;
+        font-size: bold;
+    }
+
+    .suv p{
+        color: hsl(0, 0%, 95%);
+        padding: 3em;
+    }
+
+    .luxury{
+        background-color: hsl(179, 100%, 13%);
+        padding: auto;
+    }
+
+    .luxury h4{
+        color: hsl(0, 0%, 95%);
+        font-size: 20px;
+        padding: auto;
+        font-size: bold; 
+    }
+
+    .luxury p{
+        color: hsl(0, 0%, 95%);
+        padding: 3em;
+    }
+   
+    .class{
+       border: hsl(0, 0%, 95%);
+       text-justify: center;
+       text-emphasis-color: hsl(179, 100%, 13%);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
